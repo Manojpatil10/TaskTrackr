@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TaskTrackr/static/css/main.5efe2834.css",
+    "main.js": "/TaskTrackr/static/js/main.c58df9c9.js",
+    "static/media/rb_54970.png": "/TaskTrackr/static/media/rb_54970.81d574cc09b8259bdc60.png",
+    "static/media/rb_5488.png": "/TaskTrackr/static/media/rb_5488.4540eaf7bca97f505ce2.png",
+    "index.html": "/TaskTrackr/index.html",
+    "main.5efe2834.css.map": "/TaskTrackr/static/css/main.5efe2834.css.map",
+    "main.c58df9c9.js.map": "/TaskTrackr/static/js/main.c58df9c9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5efe2834.css",
+    "static/js/main.c58df9c9.js"
+  ]
+}
