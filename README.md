@@ -1,2 +1,2 @@
-A Country Information App built with React.js and Bootstrap provides users with an intuitive platform to explore countries by region or search for specific ones. It offers detailed information, including the capital, boundaries, currency, and population, using Axios for real-time data fetching. The app integrates React Router DOM for smooth navigation, ensuring a seamless and engaging user experience.
-Visit Project : https://manojpatil10-geoexplorer.netlify.app/
+A Task Management System built with React.js and Redux enables role-based access for admins and employees, ensuring efficient task handling. Admins can assign tasks, track progress, and view status updates, while employees can update task completion and provide feedback. The system uses Axios for API integration and the React Charts Library for visualizing task progress, offering an intuitive and interactive experience.
+Visit Project : https://manojpatil10-tasktrackr.netlify.app/
