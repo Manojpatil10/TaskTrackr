@@ -1,1 +1,2 @@
-# GeoExplorer
+A Country Information App built with React.js and Bootstrap provides users with an intuitive platform to explore countries by region or search for specific ones. It offers detailed information, including the capital, boundaries, currency, and population, using Axios for real-time data fetching. The app integrates React Router DOM for smooth navigation, ensuring a seamless and engaging user experience.
+Visit Project : https://manojpatil10-geoexplorer.netlify.app/
